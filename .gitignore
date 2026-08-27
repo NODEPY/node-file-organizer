@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.organizer_history.json
+.ruff_cache/

@@ -1,0 +1,2 @@
+python-dotenv==1.2.3
+watchdog==6.0.0

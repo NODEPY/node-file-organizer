@@ -1,0 +1,14 @@
+[Unit]
+Description=NØDE File Organizer
+After=graphical-session.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/node-file-organizer
+EnvironmentFile=%h/node-file-organizer/.env
+ExecStart=%h/node-file-organizer/.venv/bin/python organizer.py
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target
