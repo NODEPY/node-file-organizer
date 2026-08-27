@@ -1,12 +1,19 @@
-# NØDE File Organizer
+<h1 align="center">NØDE File Organizer</h1>
 
-A simple Downloads folder organizer for Linux built with Python and Watchdog.
+<p align="center">
+  A simple Linux tool that keeps your Downloads folder clean automatically.
+</p>
 
-It watches for new files and automatically moves them into folders like Images, Documents, Archives, Audio, Video and Code.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white" alt="Python 3.10+">
+  <img src="https://img.shields.io/badge/Watchdog-6.0.0-4B8BBE" alt="Watchdog 6.0.0">
+  <img src="https://github.com/Igorsavchyn/node-file-organizer/actions/workflows/python-check.yml/badge.svg" alt="Python Check">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License">
+</p>
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![Watchdog](https://img.shields.io/badge/Watchdog-6.0.0-4B8BBE)
-![License](https://img.shields.io/badge/License-MIT-green)
+![NØDE File Organizer terminal preview](assets/preview.png)
+
+The organizer watches for new files and moves them into folders like Images, Documents, Archives, Audio, Video and Code.
 
 ## Features
 
