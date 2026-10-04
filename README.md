@@ -1,15 +1,11 @@
-<h1 align="center">NØDE File Organizer</h1>
+# NØDE File Organizer
 
-<p align="center">
-  A simple Linux tool that keeps your Downloads folder clean automatically.
-</p>
+A simple Linux tool that keeps your Downloads folder clean automatically.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white" alt="Python 3.10+">
-  <img src="https://img.shields.io/badge/Watchdog-6.0.0-4B8BBE" alt="Watchdog 6.0.0">
-  <img src="https://github.com/Igorsavchyn/node-file-organizer/actions/workflows/python-check.yml/badge.svg" alt="Python Check">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License">
-</p>
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![Watchdog 6.0.0](https://img.shields.io/badge/Watchdog-6.0.0-4B8BBE)
+[![Python Check](https://github.com/NODEPY/node-file-organizer/actions/workflows/python-check.yml/badge.svg)](https://github.com/NODEPY/node-file-organizer/actions/workflows/python-check.yml)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
 
 ![NØDE File Organizer terminal preview](assets/preview.png)
 
@@ -33,7 +29,7 @@ The organizer watches for new files and moves them into folders like Images, Doc
 Clone the repository:
 
 ```bash
-git clone https://github.com/Igorsavchyn/node-file-organizer.git
+git clone https://github.com/NODEPY/node-file-organizer.git
 cd node-file-organizer
 ```
 
